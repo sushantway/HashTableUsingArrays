@@ -133,10 +133,10 @@ public class HashTable {
 		map.add("this", 4);
 		map.add("hi", 5);
 		System.out.println(map.size());
-        System.out.println(map.remove("this"));
-        System.out.println(map.remove("this"));
-        System.out.println(map.size());
-        System.out.println(map.isEmpty());
+        	System.out.println(map.remove("this"));
+        	System.out.println(map.remove("this"));
+        	System.out.println(map.size());
+        	System.out.println(map.isEmpty());
 	}
 
 }
